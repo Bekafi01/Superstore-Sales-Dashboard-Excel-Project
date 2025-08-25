@@ -30,7 +30,7 @@ This project analyzes sales, profit, and customer performance using the **Kaggle
 ---
 
 ## 📷 Dashboard Preview
- 
+ ![dashboard screenshots here](images/Dashboard.png)
 
 ---
 
